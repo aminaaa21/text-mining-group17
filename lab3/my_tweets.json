@@ -1,252 +1,253 @@
 {
     "1": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "All across America people chose to get involved, get engaged and stand up. Each of us can make a difference, and all of us ought to try. So go keep changing the world in 2018.",
+      "tweet_url": "https://twitter.com/BarackObama/status/946775615893655552"
     },
     "2": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "This traffic is absolutely ridiculous. Been stuck for an hour and haven’t moved an inch.",
+      "tweet_url": "https://twitter.com/user/status/1234567890123456789"
     },
     "3": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "Just finished watching the new episode. It was okay, not great but not terrible either.",
+      "tweet_url": "https://twitter.com/user/status/9876543210987654321"
     },
     "4": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "Can’t believe I got the job! Excited for this new journey ahead! #blessed",
+      "tweet_url": "https://twitter.com/user/status/112233445566778899"
     },
     "5": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "Another rainy day... so much for making weekend plans. Ugh.",
+      "tweet_url": "https://twitter.com/user/status/223344556677889900"
     },
     "6": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "Nothing like a fresh cup of coffee in the morning to start the day right!",
+      "tweet_url": "https://twitter.com/user/status/334455667788990011"
     },
     "7": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "Apple just announced their new product line-up. Thoughts?",
+      "tweet_url": "https://twitter.com/user/status/445566778899001122"
     },
     "8": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "The customer service here is terrible. Been waiting for over an hour!",
+      "tweet_url": "https://twitter.com/user/status/556677889900112233"
     },
     "9": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "Had an amazing dinner at this new place downtown. Highly recommend!",
+      "tweet_url": "https://twitter.com/user/status/667788990011223344"
     },
     "10": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "The stock market showed mixed signals today.",
+      "tweet_url": "https://twitter.com/user/status/778899001122334455"
     },
     "11": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "So proud of my little sister for graduating today! Huge milestone!",
+      "tweet_url": "https://twitter.com/user/status/889900112233445566"
     },
     "12": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "Got scammed online today. Feeling so frustrated!",
+      "tweet_url": "https://twitter.com/user/status/990011223344556677"
     },
     "13": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "The new phone update has some interesting changes.",
+      "tweet_url": "https://twitter.com/user/status/001122334455667788"
     },
     "14": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "What an incredible concert! One for the books!",
+      "tweet_url": "https://twitter.com/user/status/112233445566778899"
     },
     "15": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "Can’t believe my flight got delayed again. This is ridiculous.",
+      "tweet_url": "https://twitter.com/user/status/223344556677889900"
     },
     "16": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "It's been a quiet day, not much happening.",
+      "tweet_url": "https://twitter.com/user/status/334455667788990011"
     },
     "17": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "I just finished reading an amazing book! Highly recommend it to everyone.",
+      "tweet_url": "https://twitter.com/user/status/445566778899001122"
     },
     "18": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "Can't believe how much the rent prices have gone up in this area. Unbelievable.",
+      "tweet_url": "https://twitter.com/user/status/556677889900112233"
     },
     "19": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "Trying out a new recipe today. Let's see how it turns out.",
+      "tweet_url": "https://twitter.com/user/status/667788990011223344"
     },
     "20": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "So grateful for all the love and support I've been receiving lately.",
+      "tweet_url": "https://twitter.com/user/status/778899001122334455"
     },
     "21": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "I can't believe this happened. I'm so angry right now.",
+      "tweet_url": "https://twitter.com/user/status/889900112233445566"
     },
     "22": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "The movie I watched last night was just okay, not as good as the reviews said.",
+      "tweet_url": "https://twitter.com/user/status/990011223344556677"
     },
     "23": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "I just got back from vacation and it was the best trip ever!",
+      "tweet_url": "https://twitter.com/user/status/001122334455667788"
     },
     "24": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "The internet is down again. This is getting really frustrating.",
+      "tweet_url": "https://twitter.com/user/status/112233445566778899"
     },
     "25": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "I can't decide what to eat for lunch today. Any suggestions?",
+      "tweet_url": "https://twitter.com/user/status/223344556677889900"
     },
     "26": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "Just finished a run and feeling great! #healthylifestyle",
+      "tweet_url": "https://twitter.com/user/status/334455667788990011"
     },
     "27": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "My package still hasn't arrived yet. I’m starting to get annoyed.",
+      "tweet_url": "https://twitter.com/user/status/445566778899001122"
     },
     "28": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "The news today was a mix of interesting stories.",
+      "tweet_url": "https://twitter.com/user/status/556677889900112233"
     },
     "29": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "Can't wait for the weekend! Excited for some time to relax.",
+      "tweet_url": "https://twitter.com/user/status/667788990011223344"
     },
     "30": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "I can’t believe how much I have to work this weekend. No break at all.",
+      "tweet_url": "https://twitter.com/user/status/778899001122334455"
     },
     "31": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "Just read an interesting article. Not sure how I feel about it yet.",
+      "tweet_url": "https://twitter.com/user/status/889900112233445566"
     },
     "32": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "Got to catch up with old friends today. Felt so good to reconnect.",
+      "tweet_url": "https://twitter.com/user/status/990011223344556677"
     },
     "33": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "The weather forecast was wrong again. It’s pouring and I didn't bring an umbrella!",
+      "tweet_url": "https://twitter.com/user/status/001122334455667788"
     },
     "34": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "I’ve been hearing a lot of buzz around the new Netflix series.",
+      "tweet_url": "https://twitter.com/user/status/112233445566778899"
     },
     "35": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "Feeling really proud of myself for achieving my goal this week!",
+      "tweet_url": "https://twitter.com/user/status/223344556677889900"
     },
     "36": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "I just realized I lost my wallet. Terrible start to the day.",
+      "tweet_url": "https://twitter.com/user/status/334455667788990011"
     },
     "37": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "I've been meaning to start a new hobby. Any suggestions?",
+      "tweet_url": "https://twitter.com/user/status/445566778899001122"
     },
     "38": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "Just booked my first solo trip! Can't wait to explore new places.",
+      "tweet_url": "https://twitter.com/user/status/556677889900112233"
     },
     "39": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "I think I lost my keys. Not looking forward to finding them.",
+      "tweet_url": "https://twitter.com/user/status/667788990011223344"
     },
     "40": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "It's been a productive day at work. Feels good to get things done.",
+      "tweet_url": "https://twitter.com/user/status/778899001122334455"
     },
     "41": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "Excited to start a new project today! Let's do this.",
+      "tweet_url": "https://twitter.com/user/status/889900112233445566"
     },
     "42": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "I’m really disappointed by the way this event turned out. Not what I expected.",
+      "tweet_url": "https://twitter.com/user/status/990011223344556677"
     },
     "43": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "The book I’m reading is slow to start, but I’m hoping it picks up soon.",
+      "tweet_url": "https://twitter.com/user/status/001122334455667788"
     },
     "44": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "Just made it to the gym for an awesome workout! Feeling strong.",
+      "tweet_url": "https://twitter.com/user/status/112233445566778899"
     },
     "45": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "I’ve been feeling really stressed out lately. Need a break.",
+      "tweet_url": "https://twitter.com/user/status/223344556677889900"
     },
     "46": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "I’ve been thinking about starting a new fitness routine.",
+      "tweet_url": "https://twitter.com/user/status/334455667788990011"
     },
     "47": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "positive",
+      "text_of_tweet": "Had the best day at the beach today. So relaxing!",
+      "tweet_url": "https://twitter.com/user/status/445566778899001122"
     },
     "48": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "negative",
+      "text_of_tweet": "My phone battery is draining too fast. It’s so annoying.",
+      "tweet_url": "https://twitter.com/user/status/556677889900112233"
     },
     "49": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "Not sure how to feel about the news today.",
+      "tweet_url": "https://twitter.com/user/status/667788990011223344"
     },
     "50": {
-        "sentiment_label": "",
-        "text_of_tweet": "",
-        "tweet_url": ""
+      "sentiment_label": "neutral",
+      "text_of_tweet": "Weather is looking mild for the weekend. No surprises expected.",
+      "tweet_url": "https://twitter.com/user/status/998877665544332211"
     }
 }
+  
