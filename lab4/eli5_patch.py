@@ -7,8 +7,7 @@ import os
 import re
 from pathlib import Path
 
-base_dir = Path.home() / "anaconda3/Lib/site-packages/eli5"
-
+base_dir = Path.home() / "anaconda3/envs/text-mining/Lib/site-packages/eli5"
 
 files_to_update = [
     base_dir / "lime/utils.py",
